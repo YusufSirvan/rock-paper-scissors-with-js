@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top: 35px;
+    margin-bottom: 80px;
+}
+h2{
+    text-align: center;
+    margin-top: 15px;
+}
+#btn{
+    margin-left: 520px;
+    margin-top: 50px;
+    padding: 5px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    background-color: aqua;
+    border-style: none;
+    border-radius: 5px;
+}
+
+
